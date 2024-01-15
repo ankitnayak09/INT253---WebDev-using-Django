@@ -2,3 +2,8 @@
 ```
 django-admin startproject projectname
 ```
+
+### Start a Project
+```
+
+```
